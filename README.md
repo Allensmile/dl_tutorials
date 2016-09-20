@@ -1,4 +1,7 @@
 # Deep learning tutorials
+ 
+ 入门PPT，边学边写 
+
  Deep learning tutorials (2nd ed.)
 
 ## Week1 
